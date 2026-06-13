@@ -21,7 +21,7 @@ files:
           offset: 112
         initialized_from_dependency: false
         encrypted_possible_answer: VKCML8/qxOFVTAVGeCdUyQ==
-        selected: false
+        selected: true
         status: Unchecked
     learner_created: false
   - name: test/tests.kt
