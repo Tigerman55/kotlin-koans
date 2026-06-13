@@ -1,0 +1,6 @@
+# Gradle local directories
+.gradle/
+build/
+
+# IDE settings
+.idea/
